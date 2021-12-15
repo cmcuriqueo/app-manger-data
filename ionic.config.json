@@ -1,0 +1,8 @@
+{
+  "name": "AppMangerData",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "8038e681"
+}
